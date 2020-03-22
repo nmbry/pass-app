@@ -1,5 +1,15 @@
 # pass-app
 Node.js+Express+Passportでログイン認証を実装する
 
-## 参考
+## How to
+
+~~~
+# インストール
+$ npm install
+
+# 起動
+$ node app.js
+~~~
+
+## Reference
 https://github.com/passport/express-4.x-local-example/blob/master/server.js
